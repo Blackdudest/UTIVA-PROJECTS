@@ -1,3 +1,3 @@
-# UTIVA SQL CAPSTONE
+# UTIVA SQL WORLDCUP
 This repository contains the SQL queries and analysis performed on World Cup data. 
 The analysis aims to extract insights and generate meaningful visualizations from the datasets.
